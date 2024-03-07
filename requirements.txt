@@ -1,0 +1,9 @@
+asgiref==3.7.2
+decouple==0.0.7
+Django==5.0.3
+djangorestframework==3.14.0
+psycopg==3.1.18
+psycopg-binary==3.1.18
+pytz==2024.1
+sqlparse==0.4.4
+typing_extensions==4.10.0
